@@ -1,2 +1,3 @@
 # qtdbus
-dbus realisation on QDBus
+dbus realisation on QDBu
+handmaker
